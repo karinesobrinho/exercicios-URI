@@ -1,4 +1,4 @@
-willContinue = True;
+willContinue = True2
 while willContinue:    
     num = int(input())
     if num != 0:
